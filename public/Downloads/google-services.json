@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "326728390083",
+    "project_id": "notification-fbffd",
+    "storage_bucket": "notification-fbffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326728390083:android:a6eac30fa38d768a365976",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtXHlIjQrsdKzS9VAGEAQJ9IDggBg03w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
