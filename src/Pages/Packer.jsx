@@ -8,11 +8,12 @@ const Packer = () => {
       <div className="relative">
         <div className=' pb-10 '>
               {/* page 1 */}
-          <div pt-10 alt="Description" className=" w-full bg-blue-600  bg-gradient-to-b from-gray-400 border border-gray-500
+
+               <div pt-10 alt="Description" className=" w-full bg-blue-600  bg-gradient-to-b from-gray-400 border border-gray-500
            to-green-400 h-[500px]" >
 
-            <div className='flex justify-center items-center '>
-             <div className='w-[1000px]   pb-32  px-20 right'>
+            <div className=' flex justify-center items-center '>
+             <div className=' w-[1000px] pb-32  px-20 right '>
                 <img src=" manpack2.png" alt="" />
               </div>
                 {/* text */}
@@ -36,12 +37,14 @@ const Packer = () => {
               </div>
 
             </div>
-          </div>
+               </div>
 
               {/* page2 */}
-              <div>
-                
-              </div>
+                 <div className=' '>
+                  <div className='  bg-pink-200 w-full h-96 border  border-black  '>
+
+                  </div>
+                 </div>
 
 
         </div>

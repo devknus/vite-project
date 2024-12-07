@@ -47,11 +47,8 @@ const Homepaintings = () => {
           </div>
         </div>
            
-           {/* paint man */} 
-            
-          
-           
-          <div className='flex justify-between items-center px-36 pt-20 '>
+            {/* paint man */} 
+           <div className='flex justify-between items-center px-36 pt-20 '>
           <div className='left text-sm font-semibold bg-orange-400 p-5 rounded-lg '>
             Our home painting service offershigh-quality,professional <br></br>
             painting solutions to transform the look of your home.    <br></br>
@@ -70,11 +67,10 @@ const Homepaintings = () => {
           <div className='right  w-96'>
             <img src=" paintman.png " alt=" logo " />
           </div>
-         </div>
+           </div>
           
-
-          {/* Box 1 */}
-        <div className=' flex  px-24 pb-20  justify-center items-center pt-20 '>
+            {/* Box 1 */}
+           <div className=' flex  px-24 pb-20  justify-center items-center pt-20 '>
           <div className=' flex items-center p-10 justify-center  bg-orange-300 border border-gray-300 shadow-2xl rounded-md space-x-5    pt-8 '>
 
             <div className='  px-10   space-y-20   ' >
@@ -168,12 +164,10 @@ const Homepaintings = () => {
             </div>
 
           </div>
-        </div>
+           </div>
 
-
-        {/* box 2 */}
-
-        <div className='flex justify-center items-center pt-20 pb-5 '>
+            {/* box 2 */}
+          <div className='flex justify-center items-center pt-20 pb-5 '>
 
           <div className='px-10  space-y-20 '>
 
@@ -356,11 +350,10 @@ const Homepaintings = () => {
 
              
           </div>
-        </div>
+          </div>
 
-        {/* last box */}
-
-        <div className=' flex  px-24 pb-20  justify-center items-center pt-20 '>
+            {/* last box */}
+          <div className=' flex  px-24 pb-20  justify-center items-center pt-20 '>
           <div className='  p-10 justify-center  bg-orange-200 border border-gray-300 shadow-2xl rounded-md space-x-5 pt-8 '>
             <div>
             <h1 className=' text-blue-500  text-2xl font-bold '>
@@ -389,9 +382,8 @@ const Homepaintings = () => {
 
              </div>
            </div>
-        </div>
-
-      </div>
+          </div>
+       </div>
     </div>
    )
 }
